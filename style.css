@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 body{
@@ -52,3 +53,18 @@ header .menu {
     border-bottom-left-radius: 5px;
 }
 
+.menu .left_panel > ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+}
+    
+.menu .left_panel > ul > li > a {
+    color: black;
+    font-size: 35px;
+    text-decoration: none;
+    display: block;
+    margin-left: 10px;  
+    margin-top: 20%;
+    text-transform: uppercase;ß
+}

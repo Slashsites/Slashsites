@@ -69,17 +69,7 @@ ul {
     overflow: hidden;
 }
 
-<<<<<<< HEAD
-
-.menu .right_panel > ul {
-     list-style-type: none;
-     
-}
-
-.menu .right_panel ul > li > nth-child(1){
-=======
 li {
->>>>>>> 9abbb46162cc4fe5b3f91d3c538e131fbb7765a1
     float: left;
 }
 
@@ -92,21 +82,9 @@ li a {
     text-decoration: none;
 }
 
-<<<<<<< HEAD
-    
-.menu .right_panel > ul > li > a {
-    color: black;
-    text-decoration: none;
-    font-size: 20px;
-    display: block;
-    margin-top: 18%;
-    text-transform: uppercase;
-    
-=======
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
->>>>>>> 9abbb46162cc4fe5b3f91d3c538e131fbb7765a1
 }
 
 
